@@ -1,0 +1,10 @@
+! ----- names for bodies -----
+$ steel = 1
+$ aluminum = 2
+! ----- names for boundaries -----
+$ master = 1
+$ load = 2
+$ bnry4 = 3
+$ center = 4
+$ base = 5
+$ slave = 6
