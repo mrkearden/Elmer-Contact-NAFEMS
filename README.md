@@ -1,3 +1,3 @@
 # Elmer-Contact-NAFEMS
-NAFEMS contact problem
+NAFEMS contact problem  
 See Problem.pdf for description
